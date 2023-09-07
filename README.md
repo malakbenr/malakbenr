@@ -29,3 +29,6 @@ I'm a passionate Full Stack Developer with a focus on building dynamic web appli
 - [Optimizing Django Admin](https://betterprogramming.pub/optimizing-django-admin-6a1187ddbb09)
 - [10 HTML Tags you need to be using](https://medium.com/swlh/10-html-tags-you-need-to-be-using-26895f496ef1)
 - [3 VS Code Extensions for Faster Web Development in Django](https://medium.com/better-programming/master-django-with-these-vs-code-extensions-for-fast-web-development-a4e0c29cc362)
+
+### 📖 Learning Journey
+I believe in continuous learning and I am committed to staying updated with the latest industry trends and technologies. My current focus on Azure and DevOps.
